@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>1.0.0</version>
+	<version>0.0.1-SNAPSHOT</version>
 	
 	<name>maven-web-application</name>
 
@@ -102,7 +102,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-		<url>http://34.224.95.236:8081/repository/expertit-snapshot/</url>
+		<url>http://34.224.95.236:8081/#browse/browse:expertit-snapshot</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
